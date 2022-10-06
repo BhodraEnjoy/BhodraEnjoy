@@ -19,8 +19,6 @@ Skills: C / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/BhodraEnjoy&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/BhodraEnjoy)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/BhodraEnjoy)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/BhodraEnjoy)  
+
