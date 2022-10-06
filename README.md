@@ -1,6 +1,3 @@
-
-![Competitive programming |C/C++|](https://scontent.fird1-1.fna.fbcdn.net/v/t39.30808-6/308350670_1238162913703027_7184713405049547780_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=CDOYsUBKOl8AX8JFBsZ&tn=dWgoy3QrkjZNMsMA&_nc_ht=scontent.fird1-1.fna&oh=00_AT97A7EVbRS1ORM90RFvQqIQTkD904WcrSDNsyUvG3b-Vg&oe=6343093D )
-
 h1 align="center">Hi 👋, I'm Enjoy Bhodra</h1>
 <h3 align="center">I'm a competitive programmer</h3>
 
