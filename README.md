@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhodraenjoy" alt="bhodraenjoy" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **C/C++ Python **
 
 - 🤝 I’m looking for help with **C/C++**
 
