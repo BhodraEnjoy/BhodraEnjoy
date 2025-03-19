@@ -1,5 +1,5 @@
 #Hi 👋, I'm Enjoy Bhodra</h1>
-<h3 align="center">I'm a competitive programmer</h3>
+<h3 align="center"> Software Engineering Student at Jiangsu Nomarl University,China</h3>
 <img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhodraenjoy&label=Profile%20views&color=0e75b6&style=flat" alt="bhodraenjoy" /> </p>
