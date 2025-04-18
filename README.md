@@ -27,8 +27,8 @@
 ---
 
 - 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Computer Vision (CV), and Generative AI (GenAI)**
-- 🤝 I’m looking for help with **advanced C/C++ concepts**
-- 💬 Ask me about **C/C++**, **Robotics**, and **AI**
+- 🤝 I’m looking for help with ***Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Computer Vision (CV), and Generative AI (GenAI)**
+- 💬 Ask me about **AI**
 - 📫 Reach me at **enjoy.bhodra02@gmail.com**
 
 ---
@@ -37,9 +37,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bhodra-enjoy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100025279903726" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
@@ -59,7 +56,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
   <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="SpaCy" width="40" height="40"/></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/></a>
