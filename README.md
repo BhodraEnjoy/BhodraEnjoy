@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning **Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Computer Vision (CV), and Generative AI (GenAI)**
 - 🤝 I’m looking for help with ***Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Computer Vision (CV), and Generative AI (GenAI)**
 - 💬 Ask me about **AI**
-- 📫 Reach me at **enjoy.bhodra02@gmail.com**
+- 📫 Reach me at **enjoy<Dot>bhodra02@gmail.com**
 
 ---
 
