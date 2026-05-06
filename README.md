@@ -45,7 +45,7 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="40" height="40" alt="Deep Learning" />
+      <img src="https://www.vectorlogo.zone/logos/brain_net/brain_net-icon.svg" width="40" height="40" alt="Deep Learning" />
       <br>Deep Learning
     </td>
     <td align="center" width="96">
@@ -53,17 +53,17 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-nlp-artificial-intelligence-flatart-icons-flat-flatarticons.png" width="40" height="40" alt="NLP" />
+      <img src="https://www.vectorlogo.zone/logos/apple_clips/apple_clips-icon.svg" width="40" height="40" alt="NLP" />
       <br>NLP
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/cpu.png" width="40" height="40" alt="CPU" />
+      <img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" width="40" height="40" alt="CPU" />
       <br>CPU
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/video-card.png" width="40" height="40" alt="GPU" />
+      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40" alt="GPU" />
       <br>GPU
     </td>
     <td align="center" width="96">
@@ -71,7 +71,7 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>VLSI
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/logic-gate.png" width="40" height="40" alt="Digital Logic" />
+      <img src="https://img.icons8.com/color/96/gate.png" width="40" height="40" alt="Digital Logic" />
       <br>Digital Logic
     </td>
     <td align="center" width="96">
