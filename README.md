@@ -29,19 +29,19 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="Tensorflow" />
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="Tensorflow" />
       <br>Tensorflow
     </td>
     <td align="center" width="96">
@@ -49,11 +49,11 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>Deep Learning
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/apple_clips/apple_clips-icon.svg" width="40" height="40" alt="NLP" />
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="NLP" />
       <br>NLP
     </td>
   </tr>
@@ -71,7 +71,7 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>VLSI
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/gate.png" width="40" height="40" alt="Digital Logic" />
+      <img src="https://img.icons8.com/color/96/logic.png" width="40" height="40" alt="Digital Logic" />
       <br>Digital Logic
     </td>
     <td align="center" width="96">
@@ -79,11 +79,11 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>Comp Arch
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
       <br>MySQL
     </td>
   </tr>
