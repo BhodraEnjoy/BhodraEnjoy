@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/render?type=code&color=00d2ff&height=150&section=header&text=Architecting%20Intelligent%20Systems&fontSize=40&animation=fadeIn" />
 </p>
 
-<img align="right" alt="CPU Architecture" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRndm5id2ZqZzR4eHpxZzR4eHpxZzR4eHpxZzR4eHpxZzR4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP3u8j5YjX7y/giphy.gif">
+<img align="right" alt="CPU Architecture" width="300" src="https://cdn.pixabay.com/animation/2023/04/05/17/30/17-30-36-848_512.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhodraenjoy&label=System%20Uptime&color=0e75b6&style=flat-square" alt="bhodraenjoy" />
