@@ -48,27 +48,35 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
       <br>OpenCV
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-nlp-artificial-intelligence-flatart-icons-flat-flatarticons.png" width="40" height="40" alt="NLP" />
+      <br>NLP
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/000000/integrated-circuit.png" width="40" height="40" alt="VLSI" />
+      <img src="https://img.icons8.com/fluency/96/cpu.png" width="40" height="40" alt="CPU" />
+      <br>CPU
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/96/video-card.png" width="40" height="40" alt="GPU" />
+      <br>GPU
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/integrated-circuit.png" width="40" height="40" alt="VLSI" />
       <br>VLSI
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Logic-Gate-computer-science-flat-icons-inmotus-design.png" width="40" height="40" alt="Digital Logic" />
+      <img src="https://img.icons8.com/fluency/96/logic-gate.png" width="40" height="40" alt="Digital Logic" />
       <br>Digital Logic
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/000000/cpu.png" width="40" height="40" alt="Comp Arch" />
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Architecture-computer-science-flat-icons-inmotus-design.png" width="40" height="40" alt="Comp Arch" />
       <br>Comp Arch
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux" />
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
     </td>
   </tr>
 </table>
