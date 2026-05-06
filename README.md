@@ -29,23 +29,27 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="Tensorflow" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="Tensorflow" />
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="40" height="40" alt="Deep Learning" />
+      <br>Deep Learning
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
@@ -59,7 +63,7 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>CPU
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/video-card.png" width="40" height="40" alt="GPU" />
+      <img src="https://img.icons8.com/fluency/48/video-card.png" width="40" height="40" alt="GPU" />
       <br>GPU
     </td>
     <td align="center" width="96">
@@ -71,12 +75,16 @@ I am a passionate AI enthusiast and Software Engineering student. I focus on bri
       <br>Digital Logic
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Architecture-computer-science-flat-icons-inmotus-design.png" width="40" height="40" alt="Comp Arch" />
+      <img src="https://img.icons8.com/color/96/processor.png" width="40" height="40" alt="Comp Arch" />
       <br>Comp Arch
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
       <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
