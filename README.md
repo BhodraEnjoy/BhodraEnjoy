@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/render?type=code&color=00d2ff&height=150&section=header&text=Architecting%20Intelligent%20Systems&fontSize=40&animation=fadeIn" />
 </p>
 
-<img align="right" alt="Architecture" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5b3B6ZnduNmR4N3R6bmJ6bmJ6bmJ6bmJ6bmJ6bmJ6bmJ6bmJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP3u8j5YjX7y/giphy.gif">
+<img align="right" alt="CPU Architecture" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRndm5id2ZqZzR4eHpxZzR4eHpxZzR4eHpxZzR4eHpxZzR4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjP3u8j5YjX7y/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhodraenjoy&label=System%20Uptime&color=0e75b6&style=flat-square" alt="bhodraenjoy" />
@@ -13,12 +13,12 @@
 
 ---
 
-### ⚙️ System Profile
-I am a Software Engineering student dedicated to the intersection of hardware efficiency and algorithmic power. My work focuses on building the backbone of modern intelligence through optimized architectures and scalable code.
+### ⚙️ About Me
+I am a passionate Software Engineering student. I focus on bridging the gap between mathematical theory and scalable code, specifically within the realms of **Generative AI** and **Computer Vision**.
 
-* 🧠 **Core Research:** Deep Learning Hardware Acceleration & Neural Architectures
-* 🛠️ **Current Focus:** Optimizing Compute Kernels & LLM Inference Efficiency
-* 🚀 **Goal:** Engineering high-performance systems that redefine computational limits.
+* 🧠 **Research Interests:** Deep Learning Architecture & NLP
+* 🛠️ **Current Focus:** Fine-tuning Large Language Models (LLMs)
+* 🚀 **Goal:** Creating intelligent systems that solve real-world problems.
 
 > `SELECT * FROM dreams WHERE limit = INFINITY;`
 
