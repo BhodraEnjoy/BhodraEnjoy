@@ -14,7 +14,7 @@
 ---
 
 ### ⚙️ About Me
-I am a passionate Software Engineering student. I focus on bridging the gap between mathematical theory and scalable code, specifically within the realms of **Generative AI** and **Computer Vision**.
+I am a passionate AI enthusiast and Software Engineering student. I focus on bridging the gap between mathematical theory and scalable code, specifically within the realms of **Generative AI** and **Computer Vision**.
 
 * 🧠 **Research Interests:** Deep Learning Architecture & NLP
 * 🛠️ **Current Focus:** Fine-tuning Large Language Models (LLMs)
@@ -37,12 +37,12 @@ I am a passionate Software Engineering student. I focus on bridging the gap betw
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="Tensorflow" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
       <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="Tensorflow" />
+      <br>Tensorflow
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
@@ -51,12 +51,16 @@ I am a passionate Software Engineering student. I focus on bridging the gap betw
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-      <br>Pandas
+      <img src="https://img.icons8.com/color/96/000000/integrated-circuit.png" width="40" height="40" alt="VLSI" />
+      <br>VLSI
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-      <br>NumPy
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Logic-Gate-computer-science-flat-icons-inmotus-design.png" width="40" height="40" alt="Digital Logic" />
+      <br>Digital Logic
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/96/000000/cpu.png" width="40" height="40" alt="Comp Arch" />
+      <br>Comp Arch
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux" />
@@ -65,10 +69,6 @@ I am a passionate Software Engineering student. I focus on bridging the gap betw
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
     </td>
   </tr>
 </table>
